@@ -7,4 +7,4 @@ O projeto se concentra na implementação da estrutura de grafo com representaç
 - Busca em largura (BFS) para encontrar caminhos entre vértices.
 - Busca em Profundidade (DFS) otimizada usando uma pilha para eliminar a recursão da implementação.
 
-![cap](atividade_grafo.jpg)
+![cap](atividade_grafo.png)
